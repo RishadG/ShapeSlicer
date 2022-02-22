@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cutter
+  - Cutter_Right
+  - Cutter_down_left
+  - Cutter_down_right
+  - arrow_body
+  - ball_left
+  - ball_right
+  - left_side
+  - right_side
+  - top_arrow
+  - finish
+  - FxTemporaire
+  - Cut_top_left
+  - Cut_top_right
+  - Cut_bottom_left
+  - Cut_bottom_right
+  - Cut_top
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
